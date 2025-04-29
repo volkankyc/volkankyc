@@ -5,7 +5,23 @@
 
 # 👋 Hi, I'm Volkankyc
 
-### I am an enthusiastic learner aiming to improve my skills in the field of Information Technology, with a focus on cloud computing, software development, and modern tools like GitHub.
+## 🌐 About Me
+
+I am someone who is interested in the field of **Information Technology**, currently with limited knowledge but a strong desire to learn. **Cloud computing systems** are technologies that we need to integrate into our daily lives—at work, in school, and in every aspect of life.
+
+🎯 My **short-term goal** is to earn the **AWS Cloud Practitioner** certification. For this reason, I plan to use **GitHub** to manage and practice through personal projects.
+
+I aim to:
+- Track my project progress
+- Collaborate with others
+- Exchange knowledge and ideas to improve myself
+
+In the future, I hope to:
+- Contribute to **open-source cloud projects**
+- Enrich my portfolio with **real-world applications**
+
+🚀 I believe that combining GitHub with cloud technologies will open the door to exciting opportunities in IT!
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=volkankyc&label=Profile%20views&color=0e75b6&style=flat)
 
