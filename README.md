@@ -1,4 +1,6 @@
-![Tech Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN2bXh0YWJmMnp4eGhvbGRwMnR0dzFic2p1bzltZ253bW8xaGVvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HN6GLlUsMvue652b2w/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN2bXh0YWJmMnp4eGhvbGRwMnR0dzFic2p1bzltZ253bW8xaGVvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HN6GLlUsMvue652b2w/giphy.gif" alt="Tech Animation" width="70%" height="250px"/>
+</p>
 
 
 # 👋 Hi, I'm Volkankyc
